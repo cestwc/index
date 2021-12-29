@@ -1,5 +1,6 @@
 name, url
 tokenized_sentences.spacy, https://drive.google.com/file/d/1-232FLQAsbYFPOLBGAAIrqpdC6LXudmP/view?usp=sharing
+tokenized_glosses.spacy, https://drive.google.com/file/d/1DMpAjBf0nnXxxEvJ2yAbeeyqo78oybSA/view?usp=sharing
 fakenewsnet_md.json, https://drive.google.com/file/d/1-A1zst3iaAQ_okpGzPexBnUw9uejv8sM/view?usp=sharing
 corrupt-3.json, https://drive.google.com/file/d/16pZm5u9YsuL1hRX8Aost6qtNydqovru7/view?usp=sharing
 corrupt-3s.json, https://drive.google.com/file/d/1nlj3g_Aptc0mK7K7ledgK24plyPW8EEN/view?usp=sharing
