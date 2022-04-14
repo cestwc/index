@@ -11,12 +11,8 @@ gloss-word.json, https://drive.google.com/file/d/1B8qUQ9LSZ_VOE5OMdn0bvaAeffArEw
 emb_128_fasttext.txt, https://drive.google.com/file/d/1RvRC0vPd2yhLsquV2a1x6zsw3J3szt2I/view?usp=sharing
 corpus_wikitext.json, https://drive.google.com/file/d/1xlBSLoLjce0CahkWb4EmP7JkFXBP_3Oe/view?usp=sharing
 bart-3syn-3.pt, https://drive.google.com/file/d/19GUz9X_QW0K9DI5q06F2PjZaxGGbQ3cv/view?usp=sharing
-cnn_stories.tgz, https://drive.google.com/u/0/uc?export=download&confirm=i_k-&id=0BwmD_VLjROrfTHk4NFg2SndKcjQ
 cnn_dailymail.zip, https://drive.google.com/file/d/1O_9f2ak3fa79Bhtvx5bytxGtIf9_S2FF/view?usp=sharing
 cnn_dailymail_ngrams.zip, https://drive.google.com/file/d/1-16oMSoYG0p1S0NxXUBmjc0wJskfd7B9/view?usp=sharing
-cnn_dailymail_subsequence_.zip, https://drive.google.com/file/d/1-DiMdZfztIVVGLS1YPwIgzQlgClGNGnA/view?usp=sharing
-cnn_dailymail_rouge_span_test.zip, https://drive.google.com/file/d/1fqal7jb5nvq7o6pP9SVSMOQce4cxcg4J/view?usp=sharing
-cnn_dailymail_rouge_span_train_.zip, https://drive.google.com/file/d/1-1sypcfzz7GEZ3TasCEstQydaayIt8gR/view?usp=sharing
 acl18_results.tar.gz, https://drive.google.com/file/d/1m1RIc9plJD2g2fhXUvwHLRtAhTVgYFKS/view
 para-nmt-5m-processed.zip, https://drive.google.com/file/d/19NQ87gEFYu3zOIp_VNYQZgmnwRuSIyJd/view
 Release.zip, https://drive.google.com/file/d/1EhQHJbykVLgmhWhNUEGiVWzikNAfqcz4/view?usp=sharing
@@ -30,3 +26,7 @@ cnn_dailymail_cr_sents.zip, https://drive.google.com/file/d/1nHSqueEbYcabVUxz4-d
 sskip.100.vectors, https://drive.google.com/file/d/1TEocsKnQrF6BPCzRKC4HNdEI84ydEbTw/view?usp=sharing
 data.tar, https://drive.google.com/file/d/1nayRyFiT_-vHaf6-oyVwHaEK79CYzMpU/view
 models.tar, https://drive.google.com/file/d/1z1MWx8QjiMi3fJTHiffPCOPUL6rm6ZEH/view?usp=sharing
+xsum_ngrams.zip, https://drive.google.com/file/d/1ZnYdh-8MJjEsPNf8V1Y1pdQQdN-bgXcq/view?usp=sharing
+xlsum_ngrams.zip, https://drive.google.com/file/d/1-1jn9fUCtAEfmGiwIPNhb65dktGRix1B/view?usp=sharing
+wiki_lingua_ngrams.zip, https://drive.google.com/file/d/1wRq8Dzg-2bpEphSWThTmz-sl-pQmS83V/view?usp=sharing
+gigaword_ngrams.zip, https://drive.google.com/file/d/1T-1udP_zaVH3QlX3B1CCoh4L44q8oNTK/view?usp=sharing
